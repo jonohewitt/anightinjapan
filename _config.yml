@@ -1,0 +1,30 @@
+---
+title: A Night In Japan
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+email: jonohewitt@pm.me
+description: A blog about Japan
+baseurl: 
+url: 
+twitter_username: jonohewitt
+github_username: jonohewitt
+theme: minima
+plugins:
+- jekyll-feed
