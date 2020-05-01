@@ -11,4 +11,4 @@ Supreme items normally drop at 11 am local time every Saturday in Japan, so if y
 
 Believe me, queuing can almost represent Japanese people attitude to life such that order is the most important rule to follow. However, if you go there not in the period of season, there are actually no many good stuffs selling in store, for me, I just got a pack of 3 Hanes supreme tee for about 6000 yen, which is not a big deal but still decent. You can pay by credit card or cash, don't worry about what type of payment supreme can't do, they accept any payment.
 
-\[Read the full article here\](https://www.tokyocreative.com/articles/19065-experience-in-supreme-harajuku-tokyo-and-osaka)
+[Read the full article here](https://www.tokyocreative.com/articles/19065-experience-in-supreme-harajuku-tokyo-and-osaka)
