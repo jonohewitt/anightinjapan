@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: jonohewitt@pm.me
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: jonohewitt
 github_username: jonohewitt
 theme: minima
