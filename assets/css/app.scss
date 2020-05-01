@@ -49,10 +49,27 @@ section {
   margin: 80px 0 0 0;
 }
 
-nav a, p a {
+nav a {
+  color: $black;
+  text-decoration: none;
+}
+
+img {
+  max-width: 780px;
+}
+
+nav a.selected, p a {
+  font-weight: 700;
   color: $black;
   text-decoration: none;
   border-bottom: 3px solid $red;
+
+
+}
+
+nav a:hover{
+  font-size: 17px;
+  transition:  font-size 0.2s;
 }
 
 p.readmore {
